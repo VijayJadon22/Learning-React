@@ -9,7 +9,7 @@ body{
 .todo-container{
     width: 300px;
     background-color: #fff;
-    height: 60vh;
+    /* height: 60vh; */
     padding: 10px 20px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 15px;
